@@ -1,0 +1,58 @@
+C:\Users\RBAmar\Desktop\Nouveau dossier\ImportfromExcel\ImportfromExcel\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\RBAmar\Desktop\Nouveau dossier\ImportfromExcel\ImportfromExcel\bin\Debug\net6.0\appsettings.json
+C:\Users\RBAmar\Desktop\Nouveau dossier\ImportfromExcel\ImportfromExcel\bin\Debug\net6.0\ImportfromExcel.exe
+C:\Users\RBAmar\Desktop\Nouveau dossier\ImportfromExcel\ImportfromExcel\bin\Debug\net6.0\ImportfromExcel.deps.json
+C:\Users\RBAmar\Desktop\Nouveau dossier\ImportfromExcel\ImportfromExcel\bin\Debug\net6.0\ImportfromExcel.runtimeconfig.json
+C:\Users\RBAmar\Desktop\Nouveau dossier\ImportfromExcel\ImportfromExcel\bin\Debug\net6.0\ImportfromExcel.dll
+C:\Users\RBAmar\Desktop\Nouveau dossier\ImportfromExcel\ImportfromExcel\bin\Debug\net6.0\ImportfromExcel.pdb
+C:\Users\RBAmar\Desktop\Nouveau dossier\ImportfromExcel\ImportfromExcel\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\RBAmar\Desktop\Nouveau dossier\ImportfromExcel\ImportfromExcel\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\RBAmar\Desktop\Nouveau dossier\ImportfromExcel\ImportfromExcel\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\RBAmar\Desktop\Nouveau dossier\ImportfromExcel\ImportfromExcel\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\RBAmar\Desktop\Nouveau dossier\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\ImportfromExcel.csproj.AssemblyReference.cache
+C:\Users\RBAmar\Desktop\Nouveau dossier\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\ImportfromExcel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\RBAmar\Desktop\Nouveau dossier\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\ImportfromExcel.AssemblyInfoInputs.cache
+C:\Users\RBAmar\Desktop\Nouveau dossier\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\ImportfromExcel.AssemblyInfo.cs
+C:\Users\RBAmar\Desktop\Nouveau dossier\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\ImportfromExcel.csproj.CoreCompileInputs.cache
+C:\Users\RBAmar\Desktop\Nouveau dossier\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\ImportfromExcel.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\RBAmar\Desktop\Nouveau dossier\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\ImportfromExcel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RBAmar\Desktop\Nouveau dossier\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\RBAmar\Desktop\Nouveau dossier\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\RBAmar\Desktop\Nouveau dossier\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\scopedcss\bundle\ImportfromExcel.styles.css
+C:\Users\RBAmar\Desktop\Nouveau dossier\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\ImportfromExcel.csproj.CopyComplete
+C:\Users\RBAmar\Desktop\Nouveau dossier\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\ImportfromExcel.dll
+C:\Users\RBAmar\Desktop\Nouveau dossier\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\refint\ImportfromExcel.dll
+C:\Users\RBAmar\Desktop\Nouveau dossier\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\ImportfromExcel.pdb
+C:\Users\RBAmar\Desktop\Nouveau dossier\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\ImportfromExcel.genruntimeconfig.cache
+C:\Users\RBAmar\Desktop\Nouveau dossier\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\ref\ImportfromExcel.dll
+C:\Users\RBAmar\Desktop\Nouveau dossier\ImportfromExcel\ImportfromExcel\bin\Debug\net6.0\ExcelDataReader.dll
+C:\Users\RBAmar\Desktop\Nouveau dossier\ImportfromExcel\ImportfromExcel\bin\Debug\net6.0\ExcelDataReader.DataSet.dll
+C:\Users\HP\Desktop\STAGE\ImportfromExcel\ImportfromExcel\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\HP\Desktop\STAGE\ImportfromExcel\ImportfromExcel\bin\Debug\net6.0\appsettings.json
+C:\Users\HP\Desktop\STAGE\ImportfromExcel\ImportfromExcel\bin\Debug\net6.0\ImportfromExcel.exe
+C:\Users\HP\Desktop\STAGE\ImportfromExcel\ImportfromExcel\bin\Debug\net6.0\ImportfromExcel.deps.json
+C:\Users\HP\Desktop\STAGE\ImportfromExcel\ImportfromExcel\bin\Debug\net6.0\ImportfromExcel.runtimeconfig.json
+C:\Users\HP\Desktop\STAGE\ImportfromExcel\ImportfromExcel\bin\Debug\net6.0\ImportfromExcel.dll
+C:\Users\HP\Desktop\STAGE\ImportfromExcel\ImportfromExcel\bin\Debug\net6.0\ImportfromExcel.pdb
+C:\Users\HP\Desktop\STAGE\ImportfromExcel\ImportfromExcel\bin\Debug\net6.0\ExcelDataReader.dll
+C:\Users\HP\Desktop\STAGE\ImportfromExcel\ImportfromExcel\bin\Debug\net6.0\ExcelDataReader.DataSet.dll
+C:\Users\HP\Desktop\STAGE\ImportfromExcel\ImportfromExcel\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\HP\Desktop\STAGE\ImportfromExcel\ImportfromExcel\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\HP\Desktop\STAGE\ImportfromExcel\ImportfromExcel\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\HP\Desktop\STAGE\ImportfromExcel\ImportfromExcel\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\HP\Desktop\STAGE\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\ImportfromExcel.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\STAGE\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\ImportfromExcel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\STAGE\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\ImportfromExcel.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\STAGE\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\ImportfromExcel.AssemblyInfo.cs
+C:\Users\HP\Desktop\STAGE\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\ImportfromExcel.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\STAGE\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\ImportfromExcel.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\HP\Desktop\STAGE\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\ImportfromExcel.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\HP\Desktop\STAGE\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\HP\Desktop\STAGE\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\HP\Desktop\STAGE\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\scopedcss\bundle\ImportfromExcel.styles.css
+C:\Users\HP\Desktop\STAGE\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\ImportfromExcel.csproj.CopyComplete
+C:\Users\HP\Desktop\STAGE\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\ImportfromExcel.dll
+C:\Users\HP\Desktop\STAGE\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\refint\ImportfromExcel.dll
+C:\Users\HP\Desktop\STAGE\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\ImportfromExcel.pdb
+C:\Users\HP\Desktop\STAGE\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\ImportfromExcel.genruntimeconfig.cache
+C:\Users\HP\Desktop\STAGE\ImportfromExcel\ImportfromExcel\obj\Debug\net6.0\ref\ImportfromExcel.dll

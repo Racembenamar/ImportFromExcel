@@ -1,0 +1,96 @@
+<div class="container-fluid">
+	<div class="row"> 
+		<nav class="navbar navbar-light bg-opacity-75 bg-warning p-2">
+			<div class="navigation">
+				<a class="navbar-brand" href="#">
+				<img src="../../assets/Linedata_Logo.jpg" class="d-inline-block align-text-top logo">
+				<br><br>Linedata File Visualtion </a>
+			</div>
+		  </nav>
+	</div>
+	<br><br>
+	
+	<div class="row">
+		<div>
+			<h1 class="text-center">Import your ".xlsx" file</h1>
+		</div>  
+		<div class="text-center">
+			<div class="input-group mb-3">
+				<input class="form-control" type="file" (change)="onChange($event)">
+				<button (click)="onUpload()"class="btn btn-warning">Import file</button>	
+			</div>
+		</div>
+	</div>	
+	<br><br>
+	
+	<div class="row" *ngIf="this.data.length !== 0">
+		<table class="col table">
+			<thead>
+				<tr class="table-warning text-center" >
+					<th scope="col" *ngFor="let i of this.data[0]" >
+						{{i.col_name}}
+						<select class="form-control btn btn-danger" style="background-color: #ffbb33" ngbDropdownItem (change)="updateType(i.col_name, $event)">
+							<option *ngFor="let j of optionType" [value]="j">{{j}}</option>
+						</select>	
+					</th>
+				</tr>
+			</thead>
+			<tbody>
+			  <tr *ngFor="let i of this.data"class="text-center">
+				<td *ngFor="let j of i">{{ j.col_val }}</td>
+			  </tr>
+			</tbody>
+		</table>
+	</div>
+	
+	<div class="row text-center">
+		<div class="row">
+			<div class="col">
+				<div ngbDropdown class="d-inline-block">
+					<div class="input-group mb-6">
+						<h1 class="btn btn-space" style="font-size:large"> Item 1</h1>
+							<div class="text-center">
+								<button type="button" class="btn btn-outline-warning" id="dropdownBasic1" ngbDropdownToggle>{{selectedItem1}}</button>
+							</div>
+					</div>
+					<div class="input-group mb-3 btn-group dropup">
+						<div ngbDropdownMenu aria-labelledby="dropdownBasic1">
+						<button ngbDropdownItem *ngFor="let i of this.data[0]" (click)="changeValue1(i.col_name)">{{i.col_name}}</button>				
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col">
+				<div ngbDropdown class="d-inline-block">
+					<div class="input-group mb-3">
+						<h1 class="btn btn-space" style="font-size:large"> Item 2</h1>
+							  <div class="text-center">
+								  <button type="button" class="btn btn-outline-warning" id="dropdownBasic1" ngbDropdownToggle >{{selectedItem2}}</button>
+							  </div>
+					</div>
+					<div class="input-group mb-3 btn-group dropup">
+						<div ngbDropdownMenu aria-labelledby="dropdownBasic1">
+						<button ngbDropdownItem *ngFor="let i of onlyNumbers()" (click)="changeValue2(i.name)">{{i.name}}</button>				
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="text-center">
+				<button class="btn btn-warning" (click)="display()" [disabled]="!this.numberExist">Display Chart</button>
+			</div>	  
+		</div>
+	</div>
+	<br><br>
+		<div>
+			<canvasjs-chart [options]="chartOptions"></canvasjs-chart>    
+		</div>
+		<footer class="row text-center text-white  bg-opacity-100 bg-warning p-2" >
+			<div class="container p-2"></div>
+				  <div class="text-center p-3 text-dark">
+			  © 2020 Copyright:
+			  <a class="text-dark" href="https://mdbootstrap.com/">Linedata.com</a>
+			</div>
+		  </footer>
+	<script src="https://canvasjs.com/assets/script/canvasjs.min.js"> </script>
+		
+</div>
